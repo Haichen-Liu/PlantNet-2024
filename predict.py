@@ -39,7 +39,7 @@ def display_prediction_in_window(image_path, prediction):
 
     # 创建窗口
     window = tk.Tk()
-    window.title("XX学校 植物识别")  # 在这里改窗口名字
+    window.title("TUTE Plant species recognition")  # 在这里改窗口名字
 
     # 加载图像
     image = Image.open(image_path)
