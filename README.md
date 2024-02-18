@@ -15,7 +15,7 @@ In addition, if you want to generate a picture of the confusion matrix, or get t
 
 您好，如果您好有兴趣使用这套代码进行植物识别，可以看看这套代码的使用步骤。
 首先，新建一个文件夹（总文件夹），把项目里的文件都下载到这个文件夹里面；
-其次，再新建一个文件夹，并命名这个新建的文件夹为”dataset“;
+其次，再新建一个文件夹，并命名这个新建的文件夹为"dataset";
 然后，将"dataset-train"和"dataset-test"两个压缩包解压到新建的"dataset"文件夹中;
 再然后，修改这两个文件夹的命名，即将"dataset-train"改成"train",将"dataset-test"改成"test"（当然你也可以在编程软件里修改读取文件路径的代码）；
 最后，是代码的使用步骤：
