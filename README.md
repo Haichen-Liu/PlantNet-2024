@@ -1,11 +1,5 @@
 # PlantNet-Deep-Plant-Species-Recognition
 
-Author: Haichen Liu, Jianqiang Mei
-
-With the rapid development of artificial intelligence technology, plant species recognition has been widely applied in fields such as agriculture, horticulture, and ecology. In this paper, we selected the Plants Dataset (99 classes) as the foundational dataset for plant species recognition and utilized the ResNet-18 model for experimentation. During the data preprocessing stage, we performed operations such as grayscale conversion, binarization, and denoising on the plant images. To enhance the model's robustness and generalization ability, techniques like cross-validation and data augmentation were employed for model training. The experimental results revealed that grayscale conversion had a significant impact on the model's performance, improving the accuracy and robustness of plant species recognition. Compared to traditional methods, the proposed approach in this paper exhibited significant advancements in plant species recognition. Specifically, the model achieved a recognition accuracy of 96.15% on the test set for identifying five plant species, including aeonium, aloe vera, calendula, mushroom and cactus. This demonstrates both high accuracy and fast identification speed. Consequently, the method proposed in this research holds important application and reference value in the field of plant variety identification and related areas.
-
-paper link:
-
 Hello, if you 're interested in using this code for plant identification, take a look at the steps to use this code. 
 First, create a new folder ( total folder ), the project files are downloaded to this folder ; 
 secondly, create a new folder and name the new folder as ' dataset '. 
@@ -27,3 +21,6 @@ In addition, if you want to generate a picture of the confusion matrix, or get t
 其次，运行train.py（生成自己的模型，需要注意的是，模型可以会由于电脑性能的区别而不同）,
 最后，运行predict.py（实现植物识别的功能）。
 此外，如果你想生成混淆矩阵的图片，或者得到Precision,Recall,F1-score的值，可以在train.py中编写相关代码来获得。
+
+
+Please cite this paper in your publications if PlantNet helps your research. paper links:
