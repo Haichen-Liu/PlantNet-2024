@@ -1,3 +1,4 @@
+
 # PlantNet-Deep-Plant-Species-Recognition
 
 Hello, if you 're interested in using this code for plant identification, take a look at the steps to use this code. 
@@ -21,6 +22,3 @@ In addition, if you want to generate a picture of the confusion matrix, or get t
 其次，运行train.py（生成自己的模型，需要注意的是，模型可以会由于电脑性能的区别而不同）,
 最后，运行predict.py（实现植物识别的功能）。
 此外，如果你想生成混淆矩阵的图片，或者得到Precision,Recall,F1-score的值，可以在train.py中编写相关代码来获得。
-
-
-Please cite this paper in your publications if PlantNet helps your research. paper links:
