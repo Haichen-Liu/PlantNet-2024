@@ -1,6 +1,6 @@
 # PlantNet-Deep-Plant-Species-Recognition
 
-Hello, if you 're interested in using this code for plant identification, take a look at the steps to use this code. 
+Hello, if you 're interested in using this code for plant recognition, take a look at the steps to use this code. 
 
 First of all, create a new folder ( total folder ), the project files are downloaded to this folder;
 
